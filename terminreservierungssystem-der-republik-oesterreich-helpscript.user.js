@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Terminreservierungssystem der Republik Österreich HelpScript
 // @namespace    https://github.com/gh-oerk
-// @version      1.0
+// @version      1.0.1
 // @author       gh-oerk
 // @description  script
 // @match        https://appointment.bmeia.gv.at/HomeWeb/Scheduler
